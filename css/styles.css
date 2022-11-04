@@ -1,0 +1,28 @@
+#testimonial {
+    text-align: center;
+}
+
+.container-fluid {
+    padding: 3% 5%;
+}
+
+body {
+    text-align: center;
+    background-color:antiquewhite;
+}
+
+h3 {
+    margin: auto;
+}
+
+.carousel-inner {
+    padding-bottom: 5%;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
